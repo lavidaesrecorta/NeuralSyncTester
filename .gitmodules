@@ -1,3 +1,6 @@
 [submodule "sim_engine"]
-	path = sim_engine
+	path = SimulationEngine
 	url = git@github.com:lavidaesrecorta/golang_tpm.git
+[submodule "tpm_echart_visualizer"]
+	path = Visualizer
+	url = git@github.com:lavidaesrecorta/tpm_echart_visualizer.git
