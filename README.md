@@ -27,7 +27,7 @@ DEFAULT_RULE=HEBBIAN
 DEFAULT_TYPE=NO_OVERLAP
 ```
 
-To deploy the Visualizer, simpmly run `yarn` inside its repository to install all dependencies and then run `yarn dev` to start the server in development mode.
+To deploy the Visualizer, simpmly run `yarn` inside the Visualizer repository to install all dependencies and then run `yarn dev` to start the server in development mode.
 
 You need the following variables in a `.env` file at the root of the repository:
 ```
