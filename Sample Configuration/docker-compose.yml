@@ -29,5 +29,5 @@ services:
         condition: service_healthy
     volumes:
       - ./simulation_engine.env:/app/.env
-      - ./conigFiles:/app/configFiles
+      - ./configFiles:/app/configFiles
   
