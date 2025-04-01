@@ -21,7 +21,7 @@ services:
       timeout: 10s
 
   simulation_engine:
-    image: neural-sync-tester-engine:latest
+    image: rjimenezucn/nst-simulation-engine:latest
     ports:
       - "8080:8080"
     depends_on:
