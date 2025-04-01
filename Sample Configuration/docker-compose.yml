@@ -21,7 +21,7 @@ services:
       timeout: 10s
 
   simulation_engine:
-    image: rjimenezucn/nst-simulation-engine:latest
+    image: rjimenezucn/nst-simulation-engine:softwarex
     ports:
       - "8080:8080"
     depends_on:
