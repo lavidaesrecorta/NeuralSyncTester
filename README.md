@@ -6,7 +6,7 @@ The NeuralSyncTester Suite is a tool that can be used to simulate the synchroniz
 # Quick Installation
 Start by cloning this repository and its submodules:
 ```
-git clone --recursive git@github.com:lavidaesrecorta/NeuralSyncTester.git
+git clone --recurse-submodules git@github.com:lavidaesrecorta/NeuralSyncTester.git
 ```
 
 This repository contains two submodules, one for **NeuralSyncTester Simulation Engine** and another for **NeuralSyncTester Visualizer**. 
